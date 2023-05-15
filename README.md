@@ -4,7 +4,13 @@ This project is a Next.js application that fetches contents of a text file from 
 
 ## Demo ✈️
 
-A live demo of application can be found at [https://word-frequency-histogram.vercel.app/](https://word-frequency-histogram.vercel.app/).
+A live demo of application can be found at [https://word-frequency-histogram-omega.vercel.app/](https://word-frequency-histogram-omega.vercel.app/).
+
+## Screenshots
+
+<img src="https://github.com/yashshveerana/word-frequency-histogram/assets/109012436/8a7cce9d-41ed-4e21-ad2e-e5a307ebfcf8" alt="image" width="700px" height="auto" />
+
+<img src="https://github.com/yashshveerana/word-frequency-histogram/assets/109012436/1507ce97-8f01-4aaa-8979-2d81cac68ce4" alt="image" width="700px" height="auto" />
 
 ## Features
 
@@ -26,13 +32,13 @@ A live demo of application can be found at [https://word-frequency-histogram.ver
 1. Clone repository from GitHub:
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/yashshveerana/word-frequency-histogram.git
     ```
 
 2. Navigate to project directory:
 
     ```bash
-    cd <project-directory>
+    cd word-frequency-histogram
     ```
 
 3. Install dependencies:
@@ -70,7 +76,7 @@ To contribute to this project, follow these steps:
 2. Clone your forked repository to your local machine:
 
     ```bash
-    git clone 
+    git clone <fork-repo>
     ```
 
 3. Create a new branch for your feature or bug fix:
@@ -97,6 +103,6 @@ To contribute to this project, follow these steps:
 
 ## License
 
-This project is licensed under MIT License.
+This project is licensed under [MIT License](https://github.com/yashshveerana/word-frequency-histogram/blob/master/LICENSE).
 
 You are free to modify and use code in this project for personal or commercial purposes.
